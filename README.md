@@ -1,7 +1,7 @@
 # Simulated Quantum Network Resource Allocation
 ### **Overview**
 
-This summary is based on the research paper *"Resource Allocation in Quantum Networks for Distributed Quantum Computing."* The paper explains how quantum networks can be improved to support not just basic communication, but also complex tasks like distributed quantum computing (DQC). It presents a method to manage resources better in these networks.
+This summary is based on the research paper *"[Resource Allocation in Quantum Networks for Distributed Quantum Computing](https://arxiv.org/pdf/2203.05844)."* The paper explains how quantum networks can be improved to support not just basic communication, but also complex tasks like distributed quantum computing (DQC). It presents a method to manage resources better in these networks.
 
 ---
 
